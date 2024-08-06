@@ -2,12 +2,6 @@
 
 Hi there! I'm Minggudev, a passionate software developer interested in various technologies and open-source projects. Here you'll find repositories that showcase my diverse skills and interests in software development.
 
-## Overview
-
-- **Total Repositories:** [Number of Repositories]
-- **Followers:** [Number of Followers]
-- **Following:** [Number of Following]
-
 ## Featured Projects
 
 ### Cupid Meter
